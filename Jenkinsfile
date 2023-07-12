@@ -18,7 +18,7 @@ pipeline {
         }
        stage("Finalizar"){
           steps{
-            echo 'Finalizare la aplicacion....10'
+            echo 'Finalizare la aplicacion....11'
           }
         }
     }
